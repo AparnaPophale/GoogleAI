@@ -1,12 +1,11 @@
-# GoogleAI
-Google 5-Day AI Agents Intensive
+# 5-Day AI Agents Intensive course with Google
 
 https://www.kaggle.com/certification/badges/aparnapophale/105
 
 <img width="4800" height="2960" alt="5-Day AI Agents Intensive Course with Google" src="https://github.com/user-attachments/assets/83e78377-54e8-4bd7-bae3-e22387249c84" />
 ----
 
-What’s being covered?
+## What’s being covered?
 
 **Day 1: Introduction to Agents** 
 Explore the foundational concepts of AI agents, their defining characteristics, and how agentic architectures differ from traditional LLM applications, laying the groundwork for building intelligent, autonomous systems.
